@@ -12,7 +12,7 @@ LLM-APPLICATIONS-BUILDING-BLOCKS/
 ├── 00_LLM_Concepts/
 │ ├── 01_Transformer_basics.ipynb
 │ └── 02_LLM_Architecture.ipynb
-│ └── 03_LLM_from_scratch.ipynb
+│ └── 03_LLM_from_scratch.ipynb (WIP)
 │
 ├── 01_Data_Prep/
 │ └── (Notebooks and scripts for preparing datasets)
@@ -24,11 +24,11 @@ LLM-APPLICATIONS-BUILDING-BLOCKS/
 │ ├── 01_PostTrainingQuantization_Basics.ipynb
 │ └── 02_GPTQ.ipynb
 │ └── 03_AWQ.ipynb
-│ └── 04_Quip.ipynb
-│ └── 05_GGUF.ipynb
-│ └── 06_HQQ.ipynb
-│ └── 07_AQLM.ipynb
-│ └── 08_BitMat.ipynb
+│ └── 04_Quip.ipynb (WIP)
+│ └── 05_GGUF.ipynb (WIP)
+│ └── 06_HQQ.ipynb (WIP)
+│ └── 07_AQLM.ipynb (TS)
+│ └── 08_BitMat.ipynb (TS)
 │
 ├── 04_Pruning/
 │ └── (Notebooks and scripts for loading pre-trained models)
@@ -36,12 +36,12 @@ LLM-APPLICATIONS-BUILDING-BLOCKS/
 ├── 04_Finetuning/
 │ ├── 01_Prompt_Engineering.ipynb
 │ └── 02_peft_QLoRA.ipynb
-│ └── 03_Knowledge_Distillation.ipynb
+│ └── 03_Knowledge_Distillation.ipynb (WIP)
 │
 ├── 05_Agents/
-│ ├── 01_Structured_output.ipynb
-│ └── 02_Function_Calling.ipynb
-│ └── 03_Multi_Agent.ipynb
+│ ├── 01_Structured_output.ipynb (TS)
+│ └── 02_Function_Calling.ipynb (TS)
+│ └── 03_Multi_Agent.ipynb (TS)
 │
 ├── LICENSE
 └── README.md
