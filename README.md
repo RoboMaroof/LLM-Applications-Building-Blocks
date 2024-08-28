@@ -13,6 +13,9 @@ LLM-APPLICATIONS-BUILDING-BLOCKS/
 │ ├── 01_Transformer_basics.ipynb
 │ └── 02_LLM_Architecture.ipynb
 │ └── 03_LLM_from_scratch.ipynb (WIP)
+│ └── 04_Types_of_Attention_in_detail.ipynb (WIP)
+│ └── 05_Types_of_Activation_in_detail.ipynb (WIP)
+│ └── 06_Memory_Management.ipynb (WIP)
 │
 ├── 01_Data_Prep/
 │ └── (Notebooks and scripts for preparing datasets)
